@@ -1,0 +1,20 @@
+@media only screen and (min-width: 1560px) {
+  .popup-item.lg-width {
+    max-width: 1440px;
+    height: 80vh;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .popup-item {
+    padding: 12px;
+  }
+  .popup-item.lg-width {
+    height: 85vh;
+  }
+  .error-block .error-content .title {
+    font-size: 2.4rem;
+    line-height: 1.4;
+  }
+}
+
+/*# sourceMappingURL=main-responsive.css.map */
